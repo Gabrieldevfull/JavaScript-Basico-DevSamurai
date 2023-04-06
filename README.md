@@ -1,1 +1,1 @@
-# aulas-curso-devSamurai
+# JavaScript-Básico-DevSamurai
